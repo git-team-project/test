@@ -17,7 +17,7 @@ table {
 <meta charset="UTF-8">
 <title>Insert title here12</title>
 </head>
-<%
+<%asdasd
 	//MongoDatabase db = ConnectMongoDB.getDatabase();
 	//MongoCollection<Document> collection = db.getCollection("people");
 	
